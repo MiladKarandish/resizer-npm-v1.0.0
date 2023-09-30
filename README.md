@@ -1,6 +1,6 @@
 # Resizer-v2
 
-## _npm_: https://www.npmjs.com/package/mil-selector
+## **npm**: https://www.npmjs.com/package/mil-selector
 
 ## How to use:
 
