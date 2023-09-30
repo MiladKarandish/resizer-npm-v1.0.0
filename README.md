@@ -1,6 +1,8 @@
 # Resizer-v2
 
-# How to use:
+## _npm_: https://www.npmjs.com/package/mil-selector
+
+## How to use:
 
 > **container**: the container of the resizer. resizer can't overflow the contianer.
 
