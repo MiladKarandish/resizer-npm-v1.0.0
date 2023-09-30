@@ -1,6 +1,6 @@
 {
   "name": "mil-selector",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "javascript selector",
   "main": "selector.mini.js",
   "scripts": {
